@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Meng Wang <wangm0855@gmail.com>
+MAINTAINER sanka4rea <sanka4rea@gmail.com>
 LABEL Description="UCSC Genome Browser database"
 
 ENV DEBIAN_FRONTEND noninteractive
